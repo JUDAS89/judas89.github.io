@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+}
+
+.header {
+    background-image: url("./img/doctor.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    text-align: center;
+}
+
+.bg {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: justify;
+    background-color: aquamarine;
+  }
+
+.db {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: justify;
+    background-color: burlywood;
+  }
+
+.gm {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: justify;
+    background-color: rosybrown;
+  }
+
+.footer {
+  background-color: black;
+  text-align: right;
+  color: red;
+  font-weight: 900;
+
+}

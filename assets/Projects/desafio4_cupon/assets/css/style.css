@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color:#28A745;
+    height: 62px;
+}
+
+.card{
+    width: 17.375em;
+}
+
+.card-title{
+    font-size: 20px;
+    color:#212529;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.list{
+    color:#707070;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.it1{
+    font-size: 16px;
+}
+
+.it2{
+    font-size: 13px;
+}
+
+.sublista_precios{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.it31{
+    font-size: 16px;
+    color:#707070;
+}
+
+.it32{
+    font-size: 20px;
+    color: #28A745;
+}
+
+.formulario{
+    background-color: #28A745;
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    height: 241px;
+
+}
+

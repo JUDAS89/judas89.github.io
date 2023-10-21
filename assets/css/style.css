@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+header{
+    background-color: pink;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-items: flex-end;
+}
+
+.presentacion{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;;
+    color: blue;
+}
+
+
+.presentacion,im{
+    padding-left: 50px;
+    margin-right: 50px;
+}
+
+.perfil{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.inicio{
+    padding-left: 20px;
+}
+
+.contacto{
+    padding-left: 20px;
+    background-color: blue;
+    color: pink;
+}
+
+.experiencia{
+    padding: 50px;
+}
+
+.educacion{
+    padding: 20px;
+    background-color: blue;
+    color: pink;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.portafolio{
+    padding: 50px;
+}
+
+footer{
+    margin-top: 30px;
+    background-color: pink;
+    color: blue;
+    text-align: center;
+}

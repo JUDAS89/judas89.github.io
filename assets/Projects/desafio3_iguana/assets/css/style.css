@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    height: 1946px;
+    width: 1280px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+
+header,h1{
+    height: 73px;
+    width: 1280px;
+    font-size: 50px;
+    opacity: 100%;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+.imagen_presentacion{
+    height: 727px;
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.presentacion_intermedia{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    height: 348px;
+    width: 1280px;
+}
+
+.descripcion_texto{
+    display: flex;
+    height: 197px;
+    width: 475px;;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    opacity: 100%;
+}
+
+.descripcion_imagen{
+    opacity: 100%;
+}
+
+.presentacion_caracteristicas{
+    text-align: center;
+    opacity: 100%;
+    padding-top: 75px;
+    width: 1280px;
+    height: 348px;
+    background-color: #1E1A13;
+}
+
+.h2{
+    padding-bottom: 70px;
+    height: 47px;;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    opacity: 100%;
+}
+
+.flex{
+    font-size: 24px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.galeria{
+    width: 1280px;
+    height: 348px;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer{
+    padding-top: 78px;
+    width: 1280px;
+    text-align: center;
+}
