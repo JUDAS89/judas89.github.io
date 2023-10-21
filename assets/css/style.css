@@ -68,3 +68,8 @@ footer{
     color: blue;
     text-align: center;
 }
+
+span {
+    color:rgb(110, 110, 132);
+    font-weight: 700;
+}
